@@ -31,7 +31,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = False
 
-THEME = "pelican-clean-blog"
+THEME = "pelican-blueidea"
 
 MARKUP = ('md', 'ipynb')
 
